@@ -1,0 +1,13 @@
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/bin/Debug/netcoreapp3.1/helloword.deps.json
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/bin/Debug/netcoreapp3.1/helloword.runtimeconfig.json
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/bin/Debug/netcoreapp3.1/helloword.runtimeconfig.dev.json
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/bin/Debug/netcoreapp3.1/helloword.dll
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/bin/Debug/netcoreapp3.1/helloword.pdb
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.csproj.AssemblyReference.cache
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.AssemblyInfoInputs.cache
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.AssemblyInfo.cs
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.csproj.CoreCompileInputs.cache
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.dll
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.pdb
+/Users/daniellemes/Documents/Projetos/C#/Imersao_logica/helloword/helloword/obj/Debug/netcoreapp3.1/helloword.genruntimeconfig.cache
